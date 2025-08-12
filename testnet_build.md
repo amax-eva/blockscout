@@ -29,8 +29,8 @@ NEXT_PUBLIC_NETWORK_CURRENCY_SYMBOL=AMAX
 
 * 运行docker compose
 
-docker compost -f geth.yml up -d
+> docker compost -f geth.yml up -d
 
 * 删除docker
 
-docker compost -f geth.yml down
+> docker compost -f geth.yml down
